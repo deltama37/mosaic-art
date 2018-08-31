@@ -2,7 +2,7 @@
 
 ## 画像ファイルのダウンロード
 ```sh
-$ googleimagesdownload
+$ src/download.sh [keyword]
 ```
 
 ## sequence
