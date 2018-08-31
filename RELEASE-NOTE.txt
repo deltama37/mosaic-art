@@ -1,0 +1,3 @@
+2018-08-31 20:50 ryota-misumi
+* 機能追加
+- [download-batch]googleから指定の画像をとるスクリプトの作成
